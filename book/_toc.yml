@@ -3,5 +3,5 @@ root: intro.md
 
 chapters:
 - file: instructies
-- external: https://github.com/TUDelft-books/CEG-mechanics-BSc/tree/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise.ipynb
-- external: https://github.com/TUDelft-books/CEG-mechanics-BSc/tree/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise2.ipynb
+- external: https://github.com/TUDelft-books/CEG-mechanics-BSc/blob/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise.ipynb
+- external: https://github.com/TUDelft-books/CEG-mechanics-BSc/blob/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise2.ipynb
