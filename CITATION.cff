@@ -1,0 +1,48 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+message: "If you use this open interactive book, please cite it using these metadata including the TeachBooks reference."
+title: 'CTB1110 - Constructiemechanica 1'
+authors:
+- given-names: Tom
+  name-particle: van
+  family-names: Woudenberg
+  email: t.r.van.woudenberg@tudelft.nl
+  affiliation: 'Delft University of Technology'
+  orcid: 'https://orcid.org/0000-0002-9536-061X'
+preferred-citation:
+  type: book
+  authors: 
+  - given-names: Tom
+    name-particle: van
+    family-names: Woudenberg
+    email: t.r.van.woudenberg@tudelft.nl
+    affiliation: 'Delft University of Technology'
+    orcid: 'https://orcid.org/0000-0002-9536-061X'
+  url: 'https://github.com/TUDelft-books/CTB1110/' # replace with your own URL (book website / publisher link) when you use this template
+  identifiers:
+    - type: url
+      value: 'https://oit.tudelft.nl/CTB1110/' # replace with your own URL when you use this template
+      description: 'Published book on GitHub Pages'
+    - type: url
+      value: 'https://github.com/TUDelft-books/CTB1110/' # replace with your own URL when you use this template
+      description: 'GitHub repository'
+  abstract: >- # replace with your own abstract when you use this template
+    This boko is used in Constructiemechanica 3 at Delft University of Technology.
+  keywords: # replace with your own keywords when you use this template
+    - 'Open interactive textbook'
+    - Mechanics
+  title: 'CTB1110 - Constructiemechanica 1' # replace with your own book title when you use this template
+  institution:
+    name: 'Delft University of Technology' # replace with your own institution when you use this template
+  license: CC-BY-4.0
+  license-url: 'https://creativecommons.org/licenses/by/4.0/'
+  copyright: '© 2025 Delft University of Technology'
+  languages:
+    - nl # replace with your book language when you use this template
+  contact: # replace with your own contact information when you use this template
+  - email: t.r.van.woudenberg@tudelft.nl
+    given-names: Tom
+    name-particle: van
+    family-names: Woudenberg
