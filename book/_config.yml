@@ -54,6 +54,7 @@ sphinx:
     - sphinx_proof
     - sphinx_dropdown_toggle
     - sphinx_code_examples
+    - sphinx_accessibility
 
 teachbooks:
   attribution_color: attributiongrey
