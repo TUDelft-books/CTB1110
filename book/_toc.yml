@@ -5,4 +5,4 @@ chapters:
 - file: instructies
 - external: https://github.com/TUDelft-books/CEG-mechanics-BSc/blob/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise.ipynb
 - external: https://github.com/TUDelft-books/CEG-mechanics-BSc/blob/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise2.ipynb
-- external: https://github.com/TUDelft-books/CTB3330/blob/CTB1110-2025/book/influence_line/exercise2/exercise.md #BUMPBUMP
+- external: https://github.com/TUDelft-books/CTB3330/blob/CTB1110-2025/book/influence_line/exercise2/exercise.md #BUMPBUMPBUMP
