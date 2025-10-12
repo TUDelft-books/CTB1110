@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export Oefening1_momenthalverwege.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.86081in" height="0.639176in"
+		viewBox="0 0 133.978 46.0207" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st2 {stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#00cc99;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape229-1" v:mID="229" v:groupContext="shape" transform="translate(39.3767,6.70315) rotate(-36.8699)">
+			<title>Ligger, 2 pt.229</title>
+			<path d="M0 46.02 L70.87 46.02" class="st1"/>
+		</g>
+		<g id="shape216-4" v:mID="216" v:groupContext="shape" transform="translate(37.9087,-35.8165) rotate(36.8699)">
+			<title>Ligger, 2 pt.216</title>
+			<path d="M0 46.02 L70.87 46.02" class="st1"/>
+		</g>
+		<g id="shape217-7" v:mID="217" v:groupContext="shape" transform="translate(10.2434,-45.0206) rotate(-0.0658172)">
+			<title>Ligger, 2 pt.217</title>
+			<path d="M0 46.02 L113.39 46.02" class="st2"/>
+		</g>
+		<g id="group218-10" transform="translate(0.375,-33.6821)" v:mID="218" v:groupContext="group">
+			<title>Scharnieroplegging.218</title>
+			<g id="shape219-11" v:mID="219" v:groupContext="shape" transform="translate(2.83465,0)">
+				<title>Blad.219</title>
+				<path d="M0 46.02 L14.17 46.02 L7.09 34.68 L0 46.02 Z" class="st3"/>
+			</g>
+			<g id="shape220-13" v:mID="220" v:groupContext="shape" transform="translate(2.83465,92.0413) rotate(180)">
+				<title>Blad.220</title>
+				<path d="M0 46.02 L2.83 46.02" class="st4"/>
+			</g>
+			<g id="shape221-16" v:mID="221" v:groupContext="shape" transform="translate(17.0079,-7.10543E-15)">
+				<title>Blad.221</title>
+				<path d="M0 46.02 L2.83 46.02" class="st4"/>
+			</g>
+		</g>
+		<g id="group222-19" transform="translate(113.761,-30.8474)" v:mID="222" v:groupContext="group">
+			<title>Rol.222</title>
+			<g id="group223-20" transform="translate(0.261477,-2.83465)" v:mID="223" v:groupContext="group">
+				<title>Scharnier</title>
+				<g id="shape224-21" v:mID="224" v:groupContext="shape" transform="translate(2.79729,0)">
+					<title>Blad.224</title>
+					<path d="M0 46.02 L13.99 46.02 L6.99 34.68 L0 46.02 Z" class="st3"/>
+				</g>
+				<g id="shape225-23" v:mID="225" v:groupContext="shape" transform="translate(2.79729,92.0413) rotate(180)">
+					<title>Blad.225</title>
+					<path d="M0 46.02 L2.8 46.02" class="st4"/>
+				</g>
+				<g id="shape226-26" v:mID="226" v:groupContext="shape" transform="translate(16.7838,-7.10543E-15)">
+					<title>Blad.226</title>
+					<path d="M0 46.02 L2.8 46.02" class="st4"/>
+				</g>
+			</g>
+			<g id="shape227-29" v:mID="227" v:groupContext="shape">
+				<title>Blad.227</title>
+				<path d="M0 46.02 L19.84 46.02" class="st4"/>
+			</g>
+		</g>
+		<g id="shape228-32" v:mID="228" v:groupContext="shape" transform="translate(64.8632,-0.375)">
+			<title>Scharnier.228</title>
+			<ellipse cx="2.12598" cy="43.8947" rx="2.12598" ry="2.12598" class="st5"/>
+		</g>
+	</g>
+</svg>
