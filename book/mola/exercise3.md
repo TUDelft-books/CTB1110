@@ -1,10 +1,7 @@
-# Workshop virtuele arbeid
+# Scharnierligger
 
 % bronbestanden hier: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 
-In deze workshop ga je de mechanismes die nodig zijn om virtuele arbeid toe te passen. Dat ga je doen met MOLA.
-
-## Scharnierligger
 Laten we de complexiteit een beetje vergroten met de volgende scharnierligger:
 
 ```{figure} ./scharnierligger/scharnierligger.svg

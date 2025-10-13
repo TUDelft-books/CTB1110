@@ -1,11 +1,8 @@
-# Workshop virtuele arbeid
+# Ingeklemde scharnierligger
 
 % bronbestanden hier: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 
-In deze workshop ga je de mechanismes die nodig zijn om virtuele arbeid toe te passen. Dat ga je doen met MOLA.
-
-## Ingeklemde scharnierligger
-Laten we het probleem nog ietsje moeilijker maken, met een ingeklemde scharnierligger
+Laten we het probleem nog moeilijker maken, met een ingeklemde scharnierligger
 
 ```{figure} ./hinged_SD/structure.svg
 :width: 80%

@@ -6,6 +6,8 @@ chapters:
 - external: https://github.com/TUDelft-books/CEG-mechanics-BSc/blob/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise.ipynb
 - external: https://github.com/TUDelft-books/CEG-mechanics-BSc/blob/NL/book/support_internal_forces/internal_forces_beam/diagrams_exercise2.ipynb
 - file: mola/exercise.md
-- file: mola/exercise2.md
-- file: mola/exercise3.md
-- file: mola/exercise4.md
+  section:
+  - file: mola/exercise0.md
+  - file: mola/exercise2.md
+  - file: mola/exercise3.md
+  - file: mola/exercise4.md

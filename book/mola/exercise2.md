@@ -1,10 +1,7 @@
-# Workshop virtuele arbeid
+# Ligger op twee steunpunten
 
 % bronbestanden hier: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 
-In deze workshop ga je de mechanismes die nodig zijn om virtuele arbeid toe te passen. Dat ga je doen met MOLA.
-
-## Ligger op twee steunpunten
 Laten we beginnen met een heel simpel model
 
 ```{figure} ./simply_supported/structure.svg
