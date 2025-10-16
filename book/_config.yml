@@ -71,3 +71,4 @@ parse:
     - linkify
     - substitution
     - tasklist
+    - attrs_inline
