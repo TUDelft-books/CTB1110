@@ -23,6 +23,7 @@ Maak de ligger op twee steunpunten met MOLA
 
 ```{figure} ./simply_supported/structure.webp
 :align: center
+:class: dark-light
 ```
 ::::
 
@@ -38,6 +39,7 @@ Toon het mechanisme waarmee de oplegreactie in de linker verticale oplegging bep
 
 ```{figure} ./simply_supported/Oefening1_verticalereactielinks.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -55,6 +57,7 @@ Toon het mechanisme waarmee de oplegreactie in de linker horizontale oplegging b
 
 ```{figure} ./simply_supported/Oefening1_horizontalereactielinks.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -73,6 +76,7 @@ Toon het mechanisme waarmee de oplegreactie in de rechter verticale oplegging be
 
 ```{figure} ./simply_supported/Oefening1_verticalereactierechts.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -91,6 +95,7 @@ Toon het mechanisme het moment halverwege de balk bepaald kan worden en schets d
 
 ```{figure} ./simply_supported/Oefening1_momenthalverwege.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.

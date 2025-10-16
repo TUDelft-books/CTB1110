@@ -5,9 +5,9 @@
 We maken gebruik van de volgende componenten
 | MOLA    | Model |
 | :--------: | :------: |
-| ![](./parts/fix.webp)  | ![](./parts/fixed.svg)|
-| ![](./parts/hinged_support.webp)| ![](./parts/hinged_support.svg)  |
-| ![](./parts/sliding_support.webp)| ![](./parts/sliding_support.svg)  |
-| ![](./parts/sliding_hinged_support.webp) | ![](./parts/sliding_hinged_support.svg)|
-| ![](./parts/beam.webp) | ![](parts/beam.svg)|
-| ![](./parts/hinge.webp) | ![](parts/hinge.svg)|
+| ![fix](./parts/fix.webp){class="dark-light"}  | ![fixed model](./parts/fixed.svg)|
+| ![hinged support](./parts/hinged_support.webp){class="dark-light"} | ![hinged support model](./parts/hinged_support.svg)  |
+| ![sliding support](./parts/sliding_support.webp){class="dark-light"} | ![sliding support model](./parts/sliding_support.svg)  |
+| ![sliding hinged support](./parts/sliding_hinged_support.webp){class="dark-light"} | ![sliding hinged support model](./parts/sliding_hinged_support.svg)|
+| ![beam](./parts/beam.webp){class="dark-light"} | ![beam model](parts/beam.svg)|
+| ![hinge](./parts/hinge.webp){class="dark-light"} | ![hinge model](parts/hinge.svg)|

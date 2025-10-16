@@ -23,6 +23,7 @@ Maak de ingeklemde scharnierligger met MOLA
 
 ```{figure} ./hinged_SD/structure.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -41,6 +42,7 @@ Toon het mechanisme waarmee de verticale oplegreactie in A bepaald kan worden en
 
 ```{figure} ./simply_supported/Oefening3_verticalereactieA.webp
 :align: center
+:class: dark-light
 Mechanisme voor de bepaling van de verticale oplegreactie in A. De oplegging in A is een inklemming die vrij kan bewegen in verticale richting. 
 ```
 
@@ -60,6 +62,7 @@ Toon het mechanisme waarmee het oplegmoment in A bepaald kan worden en schets de
 
 ```{figure} ./simply_supported/Oefening3_momentA.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -78,6 +81,7 @@ Toon het mechanisme waarmee de verticale oplegreactie in B bepaald kan worden en
 
 ```{figure} ./simply_supported/Oefening3_verticalereactieB.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -96,6 +100,7 @@ Toon het mechanisme waarmee de verticale oplegreactie in C bepaald kan worden en
 
 ```{figure} ./simply_supported/Oefening3_verticalereactieC.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -115,6 +120,7 @@ Toon het mechanisme waarmee het moment in D bepaald kan worden en schets de verv
 
 ```{figure} ./simply_supported/Oefening3_momentD.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -134,6 +140,7 @@ Toon het mechanisme waarmee het moment in B bepaald kan worden en schets de verv
 
 ```{figure} ./simply_supported/Oefening3_momentB.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -153,6 +160,7 @@ Toon het mechanisme waarmee de dwarskracht in het scharnier S1 bepaald kan worde
 
 ```{figure} ./simply_supported/Oefening3_dwarskrachtS1.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -172,6 +180,7 @@ Toon het mechanisme waarmee de dwarskracht in het scharnier S2 bepaald kan worde
 
 ```{figure} ./simply_supported/Oefening3_dwarskrachtS2.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -191,6 +200,8 @@ Toon het mechanisme waarmee de dwarskracht in D bepaald kan worden en schets de 
 
 ```{figure} ./simply_supported/Oefening3_dwarskrachtD.webp
 :align: center
+:class: dark-light
+
 Mechanisme voor bepaling van de dwarskracht in D, de delen links en rechts van D lopen evenwijdig. 
 ```
 

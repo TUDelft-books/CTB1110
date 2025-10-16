@@ -23,8 +23,11 @@ Maak de ligger op drie steunpunten met MOLA
 
 ```{figure} ./simply_supported/Oefening2_ligger.webp
 :align: center
+:class: dark-light
+
 Ligger op drie steunpunten
 ```
+
 ::::
 
 ```{exercise} Linker verticale oplegging
@@ -39,6 +42,7 @@ Toon het mechanisme waarmee de oplegreactie in de linker verticale oplegging bep
 
 ```{figure} ./simply_supported/Oefening2_verticalereactielinks.webp
 :align: center 
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -57,6 +61,7 @@ Toon het mechanisme waarmee de oplegreactie in de middelste verticale oplegging 
 
 ```{figure} ./simply_supported/Oefening2_verticalereactiemidden.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -75,6 +80,7 @@ Toon het mechanisme waarmee de oplegreactie in de rechter verticale oplegging be
 
 ```{figure} ./simply_supported/Oefening2_verticalereactierechts.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -93,6 +99,7 @@ Toon het mechanisme waarmee het moment boven de middelste oplegging bepaald kan 
 
 ```{figure} ./simply_supported/Oefening2_momentmidden.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -111,6 +118,7 @@ Toon het mechanisme waarmee het moment halverwege de rechter overspanning bepaal
 
 ```{figure} ./simply_supported/Oefening2_momentrechts.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
@@ -129,6 +137,7 @@ Toon het mechanisme waarmee de dwarskracht in het scharnier bepaald kan worden e
 
 ```{figure} ./simply_supported/Oefening2_dwarskrachtscharnier.webp
 :align: center
+:class: dark-light
 ```
 
 Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
