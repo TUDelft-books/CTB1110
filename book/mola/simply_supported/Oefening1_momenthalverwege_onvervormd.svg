@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export Oefening1_momenthalverwege_onvervormd.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.86081in" height="0.238604in"
+		viewBox="0 0 133.978 17.1795" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st2 {stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#00cc99;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape595-1" v:mID="595" v:groupContext="shape" transform="translate(10.2963,-14.5482)">
+			<title>Ligger, 2 pt.595</title>
+			<path d="M0 17.18 L113.39 17.18" class="st1"/>
+		</g>
+		<g id="shape597-4" v:mID="597" v:groupContext="shape" transform="translate(10.2765,-14.5482) rotate(-0.0658172)">
+			<title>Ligger, 2 pt.597</title>
+			<path d="M0 17.18 L113.39 17.18" class="st2"/>
+		</g>
+		<g id="group598-7" transform="translate(0.375,-3.20964)" v:mID="598" v:groupContext="group">
+			<title>Scharnieroplegging.598</title>
+			<g id="shape599-8" v:mID="599" v:groupContext="shape" transform="translate(2.83465,0)">
+				<title>Blad.599</title>
+				<path d="M0 17.18 L14.17 17.18 L7.09 5.84 L0 17.18 Z" class="st3"/>
+			</g>
+			<g id="shape600-10" v:mID="600" v:groupContext="shape" transform="translate(2.83465,34.3589) rotate(180)">
+				<title>Blad.600</title>
+				<path d="M0 17.18 L2.83 17.18" class="st4"/>
+			</g>
+			<g id="shape601-13" v:mID="601" v:groupContext="shape" transform="translate(17.0079,-3.55271E-15)">
+				<title>Blad.601</title>
+				<path d="M0 17.18 L2.83 17.18" class="st4"/>
+			</g>
+		</g>
+		<g id="group602-16" transform="translate(113.761,-0.375)" v:mID="602" v:groupContext="group">
+			<title>Rol.602</title>
+			<g id="group603-17" transform="translate(0.261477,-2.83465)" v:mID="603" v:groupContext="group">
+				<title>Scharnier</title>
+				<g id="shape604-18" v:mID="604" v:groupContext="shape" transform="translate(2.79729,0)">
+					<title>Blad.604</title>
+					<path d="M0 17.18 L13.99 17.18 L6.99 5.84 L0 17.18 Z" class="st3"/>
+				</g>
+				<g id="shape605-20" v:mID="605" v:groupContext="shape" transform="translate(2.79729,34.3589) rotate(180)">
+					<title>Blad.605</title>
+					<path d="M0 17.18 L2.8 17.18" class="st4"/>
+				</g>
+				<g id="shape606-23" v:mID="606" v:groupContext="shape" transform="translate(16.7838,-3.55271E-15)">
+					<title>Blad.606</title>
+					<path d="M0 17.18 L2.8 17.18" class="st4"/>
+				</g>
+			</g>
+			<g id="shape607-26" v:mID="607" v:groupContext="shape">
+				<title>Blad.607</title>
+				<path d="M0 17.18 L19.84 17.18" class="st4"/>
+			</g>
+		</g>
+		<g id="shape608-29" v:mID="608" v:groupContext="shape" transform="translate(64.8632,-12.5525)">
+			<title>Scharnier.608</title>
+			<ellipse cx="2.12598" cy="15.0535" rx="2.12598" ry="2.12598" class="st5"/>
+		</g>
+	</g>
+</svg>

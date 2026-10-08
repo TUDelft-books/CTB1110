@@ -5,206 +5,635 @@
 Laten we het probleem nog moeilijker maken, met een ingeklemde scharnierligger
 
 ```{figure} ./hinged_SD/structure.svg
-:width: 80%
-:name: hb_model
 :align: center
-Ingeklemde scharnierligger
+:figclass: sticky-margin
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-```{exercise} Ingeklemde scharnierligger
-:label: hb
-:nonumber: true
+:::::{question} Opgave
+:type: no-input
+:admonition:
+:class: exercise
+:nocaption:
+:showanswer:
 
-Maak de ingeklemde scharnierligger met MOLA
-```
-
-::::{solution} hb
-:class: dropdown
+Maak deze constructie na met MOLA.
+---
+=
 
 ```{figure} ./hinged_SD/structure.webp
 :align: center
 :class: dark-light
+:number:
+:width: 50%
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+---
 
-::::
+:::::
 
-```{exercise} Verticale oplegging bij A
-:label: hb_A
-:nonumber: true
+::::::{admonition} Verticale oplegging bij $\rm{A}$
+:class: exercise
 
-Toon het mechanisme waarmee de verticale oplegreactie in A bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de verticale oplegging bij $\rm{A}$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_verticalereactieA_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_A
-:class: dropdown
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_verticalereactieA.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
-Mechanisme voor de bepaling van de verticale oplegreactie in A. De oplegging in A is een inklemming die vrij kan bewegen in verticale richting. 
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::{note}
+Merk op dat we geen fysieke representatie hebben van een rolinklemming. In bovenstaande figuur is de inklemming daarom enkel verplaatst, waar die eigenlijk vrij moet kunnen bewegen in verticale richting.
+:::
 
-::::
+---
 
-```{exercise} Oplegmoment bij A
-:label: hb_Am
-:nonumber: true
+:::::
 
-Toon het mechanisme waarmee het oplegmoment in A bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken de constructie in de vervormde stand.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening3_verticalereactieA.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_Am
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Inklemmingsmoment
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om het inklemmingsmoment te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_momentA_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_momentA.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
+---
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::::
 
-::::
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-```{exercise} Verticale oplegging bij B
-:label: hb_B
-:nonumber: true
+Teken de constructie in de vervormde stand.
 
-Toon het mechanisme waarmee de verticale oplegreactie in B bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_momentA.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_B
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Verticale oplegging bij $\rm{B}$
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de verticale oplegging bij $\rm{B}$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_verticalereactieB_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_verticalereactieB.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
+---
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::::
 
-::::
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-```{exercise} Verticale oplegging bij C
-:label: hb_C
-:nonumber: true
+Teken de constructie in de vervormde stand.
 
-Toon het mechanisme waarmee de verticale oplegreactie in C bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_verticalereactieB.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_C
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Verticale oplegging bij $\rm{C}$
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de verticale oplegging bij $\rm{C}$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_verticalereactieC_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_verticalereactieC.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
+---
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::::
 
-::::
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-```{exercise} Moment in D
-:label: hb_MD
-:nonumber: true
+Teken de constructie in de vervormde stand.
 
-Toon het mechanisme waarmee het moment in D bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+---
+=
 
+```{figure} ./simply_supported/Oefening3_verticalereactieC.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_MD
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Buigend moment in $\rm{D}$
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om het buigend moment in $\rm{D}$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_momentD_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_momentD.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
+---
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::::
 
-::::
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-```{exercise} Moment in B
-:label: hb_MB
-:nonumber: true
+Teken de constructie in de vervormde stand.
 
-Toon het mechanisme waarmee het moment in B bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+---
+=
 
+```{figure} ./simply_supported/Oefening3_momentD.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_MB
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Buigend moment in $\rm{B}$
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om het buigend moment in $\rm{B}$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_momentB_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_momentB.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
+---
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::::
 
-::::
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-```{exercise} Dwarskracht in S1
-:label: hb_VS1
-:nonumber: true
+Teken de constructie in de vervormde stand.
 
-Toon het mechanisme waarmee de dwarskracht in het scharnier S1 bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+---
+=
 
+```{figure} ./simply_supported/Oefening3_momentB.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_VS1
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Dwarskracht in $\rm{S}_1$
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de dwarskracht in $\rm{S}_1$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_dwarskrachtS1_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_dwarskrachtS1.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::{note}
+Merk op dat we geen fysieke representatie hebben van een rolscharnier: beide zijdes zouden omhoog/omlaag moeten kunnen bewegen terwijl in horizontale richting de uiteindes aan elkaar vast blijven zitten en de rotaties ook gelijk blijven. In combinatie met een scharnier is bovenstaande model een redelijke benadering, echter is nu de horizontale beweging ook nog vastgezet.
+:::
+---
 
-::::
+:::::
 
-```{exercise} Dwarskracht in S2
-:label: hb_VS2
-:nonumber: true
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-Toon het mechanisme waarmee de dwarskracht in het scharnier S2 bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+Teken de constructie in de vervormde stand.
 
+---
+=
+
+```{figure} ./simply_supported/Oefening3_dwarskrachtS1.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_VS2
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Dwarskracht in $\rm{S}_2$
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de dwarskracht in $\rm{S}_2$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_dwarskrachtS2_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_dwarskrachtS2.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::{note}
+Merk op dat we geen fysieke representatie hebben van een rolscharnier: beide zijdes zouden omhoog/omlaag moeten kunnen bewegen terwijl in horizontale richting de uiteindes aan elkaar vast blijven zitten en de rotaties ook gelijk blijven. In combinatie met een scharnier is bovenstaande model een redelijke benadering, echter is nu de horizontale beweging ook nog vastgezet.
+:::
 
-::::
+---
 
-```{exercise} Dwarskracht in D
-:label: hb_VD
-:nonumber: true
+:::::
 
-Toon het mechanisme waarmee de dwarskracht in D bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
+Teken de constructie in de vervormde stand.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening3_dwarskrachtS2.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} hb_VD
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Dwarskracht in $\rm{D}$
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de dwarskracht in $\rm{D}$ te kunnen bepalen.
+---
+=
+
+```{figure} ./simply_supported/Oefening3_dwarskrachtD_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening3_dwarskrachtD.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
-
-Mechanisme voor bepaling van de dwarskracht in D, de delen links en rechts van D lopen evenwijdig. 
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+:::{note}
+Merk op dat we geen fysieke representatie hebben van een rolscharnier: beide zijdes zouden omhoog/omlaag moeten kunnen bewegen terwijl in horizontale richting de uiteindes aan elkaar vast blijven zitten en de rotaties ook gelijk blijven. Om aan te geven dat de rotaties van beide zijdes gelijk is is er in dit MOLA voorbeeld een hoekje toegevoegd.
+:::
 
-::::
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken de constructie in de vervormde stand.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening3_dwarskrachtD.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+::::::

@@ -1,17 +1,7 @@
 # first list the packages you wish to download from PyPI
 teachbooks
-jupyterbook-patches
-sphinx-image-inverter
-download_link_replacer
-git+https://github.com/TeachBooks/sphinx-exercise@titels #sphinx-exercise nog niet vertaald naar NL
-sphinx-tudelft-theme #BUMPBUMP
-teachbooks-sphinx-tippy
-sphinx-iframes
-sphinx-named-colors
-git+https://github.com/TeachBooks/sphinx-proof #sphinx-proof vertaald nog niet naar NL
-sphinx-dropdown-toggle
-sphinx-code-examples
-sphinx-accessibility
 
-# Now list the packages you want to download directly from GitHub
-git+https://github.com/TeachBooks/Sphinx-Thebe #BUMP
+git+https://github.com/TeachBooks/TeachBooks-Favourites@all_authors #BUMPBUMPBUMP1-10
+
+sphinx-tudelft-theme
+sphinx-apa-references

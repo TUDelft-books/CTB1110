@@ -1,103 +1,302 @@
 # Ligger op twee steunpunten
 
-% bronbestanden hier: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
-
-Laten we beginnen met een heel simpel model
+Laten we beginnen met een simpel model:
 
 ```{figure} ./simply_supported/structure.svg
-:width: 80%
-:name: simply_supported
 :align: center
-Ligger op twee steunpunten
+:figclass: sticky-margin
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-```{exercise} Ligger op twee steunpunten
-:label: ss
-:nonumber: true
+:::::{question} Opgave
+:type: no-input
+:admonition:
+:class: exercise
+:nocaption:
+:showanswer:
 
-Maak de ligger op twee steunpunten met MOLA
-```
-
-::::{solution} ss
-:class: dropdown
+Maak deze constructie na met MOLA.
+---
+=
 
 ```{figure} ./simply_supported/structure.webp
 :align: center
 :class: dark-light
-```
-::::
-
-```{exercise} Linker verticale oplegging
-:label: ss_A
-:nonumber: true
-
-Toon het mechanisme waarmee de oplegreactie in de linker verticale oplegging bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+:number:
+:width: 50%
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} ss_A
-:class: dropdown
+---
+
+:::::
+
+::::::{admonition} Linker verticale oplegging
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de oplegreactie in de linker verticale oplegging te kunnen bepalen.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_verticalereactielinks_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening1_verticalereactielinks.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
-::::
+---
 
-```{exercise} Linker horizontale oplegging
-:label: ss_Ah
-:nonumber: true
+:::::
 
-Toon het mechanisme waarmee de oplegreactie in de linker horizontale oplegging bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken de constructie in de vervormde stand.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_verticalereactielinks.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} ss_Ah
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Linker horizontale oplegging
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de oplegreactie in de linker verticale oplegging te kunnen bepalen.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_horizontalereactielinks_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening1_horizontalereactielinks.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+---
 
-::::
+:::::
 
-```{exercise} Rechter verticale oplegging
-:label: ss_B
-:nonumber: true
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-Toon het mechanisme waarmee de oplegreactie in de rechter verticale oplegging bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+Teken de constructie in de vervormde stand.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_horizontalereactielinks.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} ss_B
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+
+::::::{admonition} Rechter verticale oplegging
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om de oplegreactie in de rechter verticale oplegging te kunnen bepalen.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_verticalereactierechts_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening1_verticalereactierechts.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+---
 
-::::
+:::::
 
-```{exercise} Moment
-:label: ss_M
-:nonumber: true
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
 
-Toon het mechanisme het moment halverwege de balk bepaald kan worden en schets de vervormde stand inclusief numerieke waardes voor relatieve vervormingen.
+Teken de constructie in de vervormde stand.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_verticalereactierechts.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
 ```
 
-::::{solution} ss_M
-:class: dropdown
+---
+
+:::::
+
+::::::
+
+::::::{admonition} Buiging moment
+:class: exercise
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken hoe je de constructie moet aanpassen om het buigende moment in het midden te kunnen bepalen.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_momenthalverwege_onvervormd.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Maak de constructie na met MOLA en zet deze in de vervormde stand.
+
+---
+=
 
 ```{figure} ./simply_supported/Oefening1_momenthalverwege.webp
 :align: center
+:source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/exam_SOB
+:number:
+:width: 50%
 :class: dark-light
 ```
 
-Numerieke waardes voor relatieve vervormingen niet gegeven, controleer je waardes met elkaar of met de docent.
+---
 
-::::
+:::::
+
+:::::{question}
+:type: no-input
+:nocaption:
+:showanswer:
+
+Teken de constructie in de vervormde stand.
+
+---
+=
+
+```{figure} ./simply_supported/Oefening1_momenthalverwege.svg
+:align: center
+:number:
+:source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/MOLA
+```
+
+---
+
+:::::
+
+::::::

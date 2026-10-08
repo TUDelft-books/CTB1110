@@ -1,4 +1,4 @@
 (intro)=
-# Welkom bij Constructiemechanica 1
+# Introductie
 
-Dit online interactieve boek bevat extra lesstof voor Constructiemechanica 1. Voor meer informatie over het gebruik van dit boek, zie [](./instructies.md).
+Dit online interactieve boek bevat interactieve oefeningen voor Constructiemechanica 1 rondom het gebruik van MOLA voor virtuele arbeid.
