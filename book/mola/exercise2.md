@@ -32,7 +32,7 @@ Maak deze constructie na met MOLA.
 
 :::::
 
-::::::{admonition} Linker verticale oplegging
+::::::{admonition} Linker verticale oplegreactie
 :class: exercise
 
 :::::{question}
@@ -40,7 +40,7 @@ Maak deze constructie na met MOLA.
 :nocaption:
 :showanswer:
 
-Teken hoe je de constructie moet aanpassen om de oplegreactie in de linker verticale oplegging te kunnen bepalen.
+Teken hoe je de constructie moet aanpassen om de linker verticale oplegreactie te kunnen bepalen.
 
 ---
 =
@@ -99,7 +99,7 @@ Teken de constructie in de vervormde stand.
 
 ::::::
 
-::::::{admonition} Linker horizontale oplegging
+::::::{admonition} Linker horizontale oplegreactie
 :class: exercise
 
 :::::{question}
@@ -107,7 +107,7 @@ Teken de constructie in de vervormde stand.
 :nocaption:
 :showanswer:
 
-Teken hoe je de constructie moet aanpassen om de oplegreactie in de linker verticale oplegging te kunnen bepalen.
+Teken hoe je de constructie moet aanpassen om de linker horizontale oplegreactie te kunnen bepalen.
 
 ---
 =
